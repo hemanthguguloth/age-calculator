@@ -1,6 +1,6 @@
 # 🎂 Age Calculator App
 
-This Python app allows you to calculate your **exact age** and find out how many **days are left until your next birthday**.
+This Python app allows you to calculate your **exact age** and find out how many **days are left till your next birthday**.
 
 ## 💡 Features
 - Calculates age in **years, months, and days**
